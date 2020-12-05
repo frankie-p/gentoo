@@ -18,7 +18,6 @@ net-misc/dhcpcd
 sys-apps/hwloc
 sys-apps/pciutils
 sys-apps/usbutils
-sys-kernel/gentoo-sources
 sys-libs/ncurses
 sys-process/htop
 www-client/firefox-bin
