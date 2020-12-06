@@ -13,6 +13,7 @@ gnome-extra/gnome-utils
 media-sound/alsa-utils
 media-sound/spotify
 media-video/vlc
+net-firewall/iptables
 net-im/telegram-desktop-bin
 net-misc/dhcpcd
 sys-apps/hwloc
